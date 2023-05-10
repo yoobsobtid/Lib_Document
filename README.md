@@ -44,7 +44,6 @@ React Admin https://marmelab.com/react-admin/Tutorial.html
 - Ant-design / mui
 
 ## Validate checking lib
-- Validate checking lib
 - Validator https://www.npmjs.com/package/validator 
 - Ajv https://www.npmjs.com/package/ajv 
 - Async-validator https://www.npmjs.com/package/async-validator 
