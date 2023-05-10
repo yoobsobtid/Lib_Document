@@ -35,6 +35,7 @@ React Admin https://marmelab.com/react-admin/Tutorial.html
 - Pigeon Maps - without ex - dependencies https://www.npmjs.com/package/pigeon-maps 
 - arcgis https://developers.arcgis.com/
 
+## Slide หรือ carousel / banner
 - Slide หรือ carousel / banner
 - Swipe Js https://swiperjs.com/ 
 - Owlcarousel2 https://owlcarousel2.github.io/OwlCarousel2/ 
@@ -42,6 +43,7 @@ React Admin https://marmelab.com/react-admin/Tutorial.html
 - ItemSlider https://github.com/codrops/ItemSlider 
 - Ant-design / mui
 
+## Validate checking lib
 - Validate checking lib
 - Validator https://www.npmjs.com/package/validator 
 - Ajv https://www.npmjs.com/package/ajv 
