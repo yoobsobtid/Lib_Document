@@ -33,6 +33,7 @@ React Admin https://marmelab.com/react-admin/Tutorial.html
 - deck.gl  https://www.npmjs.com/package/deck.gl
 - React-leaflet  https://react-leaflet.js.org/ 
 - Pigeon Maps - without ex - dependencies https://www.npmjs.com/package/pigeon-maps 
+- arcgis https://developers.arcgis.com/
 
 - Slide หรือ carousel / banner
 - Swipe Js https://swiperjs.com/ 
