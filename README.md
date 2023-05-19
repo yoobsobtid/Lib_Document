@@ -84,9 +84,18 @@ React Admin https://marmelab.com/react-admin/Tutorial.html
 - keditor/ckeditor5-engine https://www.npmjs.com/package/@ckeditor/ckeditor5-engine 
 - ateslate / slate-reactslate-react   https://docs.slatejs.org/ 
 
-## Ohter Animation
+## Other Animation
 - gsap https://www.npmjs.com/package/gsap 
 
+## Search
+- FlexSearch https://github.com/nextapps-de/flexsearch
+- MiniSearch https://github.com/lucaong/minisearch
+- Falcon https://github.com/lengstrom/falcon
+- search-index https://github.com/fergiemcdowall/search-index
+- Lunr.js https://github.com/olivernn/lunr.js
+- Memex https://github.com/WorldBrain/Memex
+- Fuse https://github.com/krisk/Fuse
+- fuzzysort https://github.com/farzher/fuzzysort
 
 
 ค้นหารูปแบบอื่นๆ ได้ที่ https://reactjsexample.com 
