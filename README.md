@@ -97,6 +97,8 @@ React Admin https://marmelab.com/react-admin/Tutorial.html
 - Fuse https://github.com/krisk/Fuse
 - fuzzysort https://github.com/farzher/fuzzysort
 
+## Translate
+- react-i18next https://github.com/i18next/react-i18next
 
 ค้นหารูปแบบอื่นๆ ได้ที่ https://reactjsexample.com 
 
