@@ -99,6 +99,10 @@ React Admin https://marmelab.com/react-admin/Tutorial.html
 
 ## Translate
 - react-i18next https://github.com/i18next/react-i18next
+- FormatJS https://formatjs.io/
+- next-translate https://github.com/aralroca/next-translate
+- LinguiJS https://github.com/lingui/js-lingui 
+- https://simplelocalize.io/blog/posts/the-most-popular-react-localization-libraries/ 
 
 ค้นหารูปแบบอื่นๆ ได้ที่ https://reactjsexample.com 
 
