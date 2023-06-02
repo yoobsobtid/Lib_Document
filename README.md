@@ -78,7 +78,8 @@ React Admin https://marmelab.com/react-admin/Tutorial.html
 - konvajs https://konvajs.org/
 - ReactCardFlip https://www.npmjs.com/package/react-card-flip 
 - React Countdown Flip Card https://www.npmjs.com/package/react-countdown-flip-card 
-- RichText 
+
+## RichText 
 - alloyeditor  https://www.npmjs.com/package/alloyeditor 
 - Quill https://www.npmjs.com/package/quill 
 - Quill-image-uploader https://github.com/NoelOConnell/quill-image-uploader 
