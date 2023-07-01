@@ -85,7 +85,8 @@ React Admin https://marmelab.com/react-admin/Tutorial.html
 - Quill https://www.npmjs.com/package/quill 
 - Quill-image-uploader https://github.com/NoelOConnell/quill-image-uploader 
 - keditor/ckeditor5-engine https://www.npmjs.com/package/@ckeditor/ckeditor5-engine 
-- ateslate / slate-reactslate-react   https://docs.slatejs.org/ 
+- slate / slate-reactslate-react   https://docs.slatejs.org/
+- RichTextEditor https://richtexteditor.com/ 
 
 ## Other Animation
 - gsap https://www.npmjs.com/package/gsap 
